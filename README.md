@@ -2,7 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Jeongju's%20GitHub%20👋&animation=twinkling&fontSize=50&fontAlignY=40&fontAlign=70&height=250)
 <br>
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={})](https://solved.ac/{https://github.com/presto98})
 <br>
 <div align="center">
   
